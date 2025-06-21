@@ -1,2 +1,2 @@
-# AICTE-Internship
+# Edunet-Internship
 Project Submission
